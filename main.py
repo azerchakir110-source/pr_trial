@@ -45,7 +45,7 @@ def main():
     print(f"5 + 3 = {result}")
     
     print()
-    print("Script completed successfully!"
+    print("Script completed successfully!")
 
 
 if __name__ == "__main__":
