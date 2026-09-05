@@ -28,7 +28,7 @@ def add(a: int, b: int) -> int:
     Returns:
         The sum of a and b.
     """
-    return a + b
+    return (a + b) /2
 
 
 def main():
